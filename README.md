@@ -1,4 +1,3 @@
-# AWS-VPC-Subnetting-Lab
 # AWS VPC Design & Subnetting Lab 🚀
 
 ## Overview
@@ -46,6 +45,12 @@ Key objectives:
 - Cost management best practices (cleaned up NAT Gateway, stopped instances)
 
 ## Notes:
+- This lab was completed manually via AWS Console.
+- Next steps: Plan to automate this architecture using Terraform for Infrastructure as Code (IaC) best practices.
+
+## Author
+[Bazchaun Rogers](https://github.com/BZA2025) — AWS Certified Cloud Architect | Azure Administrator (AZ-104) | Network+ | Security+ | 2025 Cybersecurity Fellow
+
 - All resources cleaned up to avoid unnecessary charges:
   - EC2 instances stopped.
   - NAT Gateway deleted.
