@@ -14,7 +14,7 @@ Key objectives:
 - Validate network paths using EC2 instances as test points.
 
 ## Architecture diagram
-*(Optional: Upload a diagram here if you draw one using draw.io or another tool)*
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd8d395a-17fb-4fdd-9abb-361507ee160a" />
 
 ## Architecture details:
 - VPC CIDR: `10.0.0.0/16`
