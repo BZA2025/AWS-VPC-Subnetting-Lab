@@ -49,7 +49,7 @@ Key objectives:
 - Next steps: Plan to automate this architecture using Terraform for Infrastructure as Code (IaC) best practices.
 
 ## Author
-[Bazchaun Rogers](https://github.com/BZA2025) — AWS Certified Cloud Architect | Azure Administrator (AZ-104) | Network+ | Security+ | 2025 Cybersecurity Fellow
+[Bazchaun Rogers](https://github.com/BZA2025) — AWS Certified Cloud Architect | Azure Administrator (AZ-104) | Network+ | Security+ | 2025 Cybersecurity Engineer
 
 - All resources cleaned up to avoid unnecessary charges:
   - EC2 instances stopped.
